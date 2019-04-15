@@ -1,4 +1,3 @@
-user-agent: *  
- Disallow: /Error.html  
+user-agent: *   
  Disallow: /favicon.ico  
    Sitemap: https://aqehkl123.github.io/sitemap.xml
